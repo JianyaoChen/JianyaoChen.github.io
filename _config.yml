@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jianyao Chen"
-  pronouns         : # example: "he/his/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "jianyao@uwm.edu" 
+  pronouns         : "he/him/his"
+  bio              : "Ph.D. Candidate in Information Studies at the University of Wisconsin–Milwaukee. Research interests: online mental health communities, online social support, emotional and privacy-related self-disclosure, health informatics, and NLP/AI for text analysis."
+  location         : "Milwaukee, WI, USA"
+  employer         : "School of Information Studies, University of Wisconsin–Milwaukee"
+  uri              : "https://jianyaochen.github.io"
+  email            : "jianyao@uwm.edu"
 
   # Academic websites
   academia         : # URL
