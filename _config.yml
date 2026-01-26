@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jianyao Chen"
   pronouns         : "he/him/his"
-  bio              : "Ph.D. Candidate in Information Studies at the University of Wisconsin–Milwaukee. Research interests: online mental health communities, online social support, emotional and privacy-related self-disclosure, health informatics, and NLP/AI for text analysis."
+  bio              : "Ph.D. Candidate in Information Studies at the University of Wisconsin–Milwaukee."
   location         : "Milwaukee, WI, USA"
-  employer         : "School of Information Studies, University of Wisconsin–Milwaukee"
+  employer         : "University of Wisconsin–Milwaukee"
   uri              : "https://jianyaochen.github.io"
   email            : "jianyao@uwm.edu"
 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jianyao-chen-424454243/"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
