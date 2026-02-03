@@ -8,15 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Jianyao Chen"
 title_separator          : "-"
 name                     : &name "Jianyao Chen"
-description              : &description "PhD Candidate in Information Studies, University of Wisconsin–Milwaukee"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://jianyaochen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description              : &description "Ph.D. Candidate in Information Science, University of Wisconsin–Milwaukee"
+url                      : "https://jianyaochen.github.io"
+baseurl                  : ""
+repository               : "jianyaochen/jianyaochen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jianyao Chen"
   pronouns         : "he/him/his"
-  bio              : "Ph.D. Candidate in Information Studies at the University of Wisconsin–Milwaukee."
+  bio              : "Ph.D. Candidate in Information Science at the University of Wisconsin–Milwaukee. Research interests: Digital Health, Online Information Behavior, Online Social and Emotional Support, Digital Well-Being, Privacy-Related Concerns on Digital Platforms, Misinformation, Deep Learning, and Large Language Models."
   location         : "Milwaukee, WI, USA"
-  employer         : "University of Wisconsin Milwaukee"
+  employer         : "School of Information Studies, UWM"
   uri              : "https://jianyaochen.github.io"
   email            : "jianyao@uwm.edu"
 
@@ -38,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-1890-7404"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
@@ -51,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jianyaochen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
