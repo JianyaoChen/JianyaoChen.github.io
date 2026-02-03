@@ -9,12 +9,9 @@ redirect_from:
 
 ## About Me
 
-I am a **Ph.D. Candidate in Information Science** at the **School of Information Studies, University of Wisconsin–Milwaukee**. I am currently **seeking postdoctoral opportunities**.
+I am a **Ph.D. Candidate in Information Science** at the School of Information Studies, University of Wisconsin–Milwaukee. I am currently **seeking postdoctoral opportunities**.
 
-My doctoral research examines **PTSD-related discussions in online mental health communities**. Using a **mixed-methods approach**, I investigate how individuals **express emotions**, **seek and provide social support**, **navigate privacy-related self-disclosure**, and **encounter misinformation** in **digital mental health contexts**. I also examine patterns of **user interaction and engagement** on online platforms.
-
-Methodologically, my work integrates **computational text analysis** and **quantitative research methods**, including **large-scale social media data collection**, **natural language processing**, **deep learning**, **large language models**, and **statistical modeling**. I am particularly interested in using **deep learning and large language models** to support the **analysis of health-related online content and user-generated data**.
-
+My doctoral research examines **PTSD-related discussions in online health communities**. Using a mixed-methods approach, I investigate how individuals express emotions, seek and provide social support, manage privacy-related self-disclosure, and encounter misinformation in digital mental health contexts. Methodologically, my work integrates computational text analysis and quantitative research methods, including large-scale social media data collection, natural language processing, deep learning, large language models, and statistical modeling. 
 
 ---
 
@@ -95,7 +92,6 @@ Content analysis; statistical analysis; mixed methods
 
 
 ---
-
 ## Contact
 
 - Email: jianyao@uwm.edu  
