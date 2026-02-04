@@ -59,11 +59,3 @@ TensorFlow; large language model integration using LangChain; prompt-based syste
 Content analysis; statistical analysis; mixed methods
 
 
-
----
-## Contact
-
-- Email: jianyao@uwm.edu  
-- Google Scholar: <https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en>  
-- ORCID: <https://orcid.org/0000-0003-1890-7404>  
-- GitHub: <https://github.com/jianyaochen>  
