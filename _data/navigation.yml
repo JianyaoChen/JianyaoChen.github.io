@@ -12,13 +12,13 @@ main:
     url: /publications/
 
   - title: "Professional Experience"
-    url: /Professional-Experience/
+    url: /professional-experience/
 
   - title: "Honors & Awards"
-    url: /Honors-Awards/
+    url: /honors-awards/
 
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
   
   # - title: "Talks"
     # url: /talks/    
