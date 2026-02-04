@@ -4,7 +4,7 @@ title: "Professional Experience"
 permalink: /professional-experience/
 author_profile: true
 ---
----
+
 **AI Engineer Intern (Remote)**  
 Beijing Time Symphony Tech (北京时光乐章科技), AI Startup, Nov 2023 – May 2024  
 - Contributed to the design of a personalized AI chatbot system.  
