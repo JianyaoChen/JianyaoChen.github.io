@@ -40,8 +40,6 @@ Central China Normal University (CCNU), 2019.09–2022.06
 Central China Normal University (CCNU), 2015.09–2019.06  
  
 
----
-
 ## Technical & Research Skills
 
 **Programming & Data Processing**  
