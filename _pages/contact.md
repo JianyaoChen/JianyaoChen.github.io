@@ -5,14 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Honors & Awards
+## Contact
 
-- **UWM Graduate Student Excellence Fellowship**, 2025  
-- **UWM SOIS Ph.D. Scholarship**, 2024, 2025  
-- **UWM SOIS Ph.D. Diversity General Scholarship Fund**, 2023  
-- **UWM SOIS CGSA Information Studies Scholarship**, 2022  
-- **UWM Chancellor’s Award**, 2022, 2023  
-- **Chinese National Scholarship**, 2021  
-- **CCNU Excellent Graduate Scholarship**, 2020–2022  
-- **CCNU Chancellor’s Award**, 2020  
-- **CCNU Excellent Undergraduate Student Scholarship**, 2018  
+- Email: jianyao@uwm.edu  
+- Google Scholar: <https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en>  
+- ORCID: <https://orcid.org/0000-0003-1890-7404>  
+- GitHub: <https://github.com/jianyaochen>  
