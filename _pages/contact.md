@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact
 
 - Email: jianyao@uwm.edu  
 - Google Scholar: <https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en>  
