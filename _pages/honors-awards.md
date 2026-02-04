@@ -5,7 +5,6 @@ permalink: /honors-awards/
 author_profile: true
 ---
 
-
 - **UWM Graduate Student Excellence Fellowship**, 2025  
 - **UWM SOIS Ph.D. Scholarship**, 2024, 2025  
 - **UWM SOIS Ph.D. Diversity General Scholarship Fund**, 2023  
