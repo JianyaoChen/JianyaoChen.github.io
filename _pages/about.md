@@ -31,7 +31,7 @@ My doctoral research examines **PTSD-related discussions in online health commun
 ## Education
 
 **Ph.D. in Information Science**  
-University of Wisconsin–Milwaukee, 2022.09-2026.06 (expected)
+University of Wisconsin–Milwaukee (UWM), 2022.09-2026.06 (expected)
 
 **M.S. in Information Science**  
 Central China Normal University (CCNU), 2019.09–2022.06  
