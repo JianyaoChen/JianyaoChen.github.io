@@ -1,0 +1,17 @@
+# 中文版网站顶部导航栏
+
+main_zh:
+  - title: "学术成果"
+    url: /zh/publications/
+
+  - title: "专业经历"
+    url: /zh/professional-experience/
+
+  - title: "荣誉奖励"
+    url: /zh/honors-awards/
+
+  - title: "联系方式"
+    url: /zh/contact/
+
+  - title: "English"
+    url: /
