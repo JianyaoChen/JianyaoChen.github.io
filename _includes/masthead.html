@@ -11,7 +11,8 @@
           {% assign nav_links = site.data.navigation.main %}
 
           {% if page.url contains '/zh/' %}
-            {% assign nav_links = site.data.navigation.main_zh %}
+
+            {% assign nav_links = site.data.navigation_zh.main_zh %}
           {% endif %}
           
           {% for link in nav_links %}
