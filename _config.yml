@@ -81,6 +81,67 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+
+author_zh:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "陈健瑶"
+  pronouns         : ""
+  bio              : "威斯康星大学密尔沃基分校信息科学博士。"
+  location         : "美国威斯康星州密尔沃基"
+  employer         : "威斯康星大学密尔沃基分校"
+  uri              : "https://jianyaochen.github.io/zh/"
+  email            : "jianyao@uwm.edu"
+
+  # Academic websites
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en"
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0003-1890-7404"
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
+
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "jianyaochen"
+  kaggle           :
+  stackoverflow    :
+
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "JianyaoChen"
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
