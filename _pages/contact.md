@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- Email: jianyao@uwm.edu  
+- Email: cjy@ccnu.edu.cn
 - Google Scholar: <https://scholar.google.com/citations?user=qOFXevgAAAAJ&hl=en>  
 - ORCID: <https://orcid.org/0000-0003-1890-7404>  
 - GitHub: <https://github.com/jianyaochen>  
