@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**English** | [中文](https://jianyaochen.github.io/zh/)
-
----
-
-
 ## About Me
 
 I am a faculty member at the **School of Information Management, Central China Normal University (CCNU)**. I received my Ph.D. in Information Studies from the **School of Information Studies, University of Wisconsin–Milwaukee (UWM)** in 2026.
