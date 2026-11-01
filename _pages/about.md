@@ -9,9 +9,12 @@ redirect_from:
 
 ## About Me
 
-I am a **Ph.D. Candidate in Information Science** at the School of Information Studies, University of Wisconsin–Milwaukee. 
+I am a faculty member at the **School of Information Management, Central China Normal University (CCNU)**. I received my Ph.D. in Information Studies from the **School of Information Studies, University of Wisconsin–Milwaukee (UWM)** in 2026.
 
-My doctoral research examines **PTSD-related discussions in online health communities**. Using a mixed-methods approach, I investigate how individuals express emotions, seek and provide social support, manage privacy-related self-disclosure, and encounter misinformation in digital mental health contexts. Methodologically, my work integrates computational text analysis and quantitative research methods, including large-scale social media data collection, natural language processing, deep learning, large language models, and statistical modeling. 
+My research interests primarily focus on **consumer health information, online health communities, and intangible cultural heritage**.
+
+I welcome undergraduate students who are interested in these research areas to contact me to discuss potential research opportunities.
+
 
 
 ## Research Interests
