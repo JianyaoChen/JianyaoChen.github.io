@@ -11,7 +11,7 @@ redirect_from:
 
 I am a faculty member at the **School of Information Management, Central China Normal University (CCNU)**. I received my Ph.D. in Information Studies from the **School of Information Studies, University of Wisconsin–Milwaukee (UWM)** in 2026.
 
-My research interests primarily focus on **consumer health information, online health communities, and intangible cultural heritage**.
+My research interests primarily focus on **consumer health information, online health communities, AI and intangible cultural heritage**.
 
 I welcome undergraduate students who are interested in these research areas to contact me to discuss potential research opportunities.
 
