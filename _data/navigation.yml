@@ -19,7 +19,10 @@ main:
 
   - title: "Contact"
     url: /contact/
-  
+
+  - title: "中文"
+    url: /zh/
+    
   # - title: "Talks"
     # url: /talks/    
 
