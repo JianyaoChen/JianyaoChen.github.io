@@ -34,7 +34,7 @@ I welcome undergraduate students who are interested in these research areas to c
 ## Education
 
 **Ph.D. in Information Science**  
-University of Wisconsin–Milwaukee (UWM), 2022.09-2026.06 (expected)
+University of Wisconsin–Milwaukee (UWM), 2022.09-2026.06
 
 **M.S. in Information Science**  
 Central China Normal University (CCNU), 2019.09–2022.06  
