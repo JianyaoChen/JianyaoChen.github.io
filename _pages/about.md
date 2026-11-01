@@ -17,20 +17,6 @@ I welcome undergraduate students who are interested in these research areas to c
 
 
 
-## Research Interests
-
-- Digital Health
-- Health Informatics
-- Online Information Behavior
-- Online Social and Emotional Support
-- Digital Well-Being
-- Privacy-Related Concerns on Digital Platforms,
-- Misinformation
-- Health Informatics
-- Deep Learning
-- Large Language Models
-
-
 ## Education
 
 **Ph.D. in Information Science**  
