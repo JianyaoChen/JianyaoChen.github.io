@@ -22,14 +22,14 @@ repository               : "jianyaochen/jianyaochen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jianyao Chen"
-  pronouns         : "he/him/his"
-  bio              : "Ph.D. Candidate in Information Science at the University of Wisconsin-Milwaukee."
-  location         : "Milwaukee, WI, USA"
-  employer         : "University of Wisconsin-Milwaukee"
-  uri              : "https://jianyaochen.github.io"
-  email            : "jianyao@uwm.edu"
+  avatar: "profile.png"
+  name: "Jianyao Chen"
+  pronouns: "he/him/his"
+  bio: "Faculty Member at the School of Information Management, Central China Normal University."
+  location: "Wuhan, China"
+  employer: "Central China Normal University"
+  uri: "https://jianyaochen.github.io"
+  email: "cjy@ccnu.edu.cn"
 
   # Academic websites
   academia         : # URL
